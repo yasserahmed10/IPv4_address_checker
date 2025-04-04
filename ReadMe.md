@@ -1,5 +1,5 @@
 ```markdown
-# IPv4 Validator
+# IPv4_address_checker
 
 This project contains a simple Kotlin application to validate IPv4 addresses.
 
@@ -18,7 +18,7 @@ The application provides a function `validIPv4` that checks if a given string is
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yasserahmed10/ipv4-validator.git
+    git clone https://github.com/yasserahmed10/IPv4_address_checker.git
     ```
 2. Open the project in IntelliJ IDEA.
 3. Navigate to `src/Main.kt`.
