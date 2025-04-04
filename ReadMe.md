@@ -1,5 +1,3 @@
-Here is a `README.md` file for your repository:
-
 ```markdown
 # IPv4 Validator
 
@@ -58,10 +56,3 @@ This function takes a string `ip` and returns a boolean indicating whether the s
 
 - `true` if the string is a valid IPv4 address.
 - `false` otherwise.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-This `README.md` file provides an overview of the project, instructions for running the application, example usage, and details about the `validIPv4` function.
